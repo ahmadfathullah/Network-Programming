@@ -59,6 +59,6 @@ public class ClientChat{
     		System.out.println("Server :"+rMessage);
     	}
     	
-    
+    }
   }
 }
