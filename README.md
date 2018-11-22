@@ -2,5 +2,5 @@
 
 
 # Server client Chat
-/ sadasdasasdafasd
+Compile both client and server[c and java]. Then, execute server program first (for c).
 # Out-of-Band(OOB)
