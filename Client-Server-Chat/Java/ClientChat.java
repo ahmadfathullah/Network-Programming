@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-public class chatClient{
+public class ClientChat{
 
   public static void main(String[] args) throws Exception {
 
@@ -59,6 +59,6 @@ public class chatClient{
     		System.out.println("Server :"+rMessage);
     	}
     	
-    
+    }
   }
 }
