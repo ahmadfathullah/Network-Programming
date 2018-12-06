@@ -2,7 +2,7 @@
 
 
 # Server client Chat
-Compile both client and server[c and java]. Then, execute server program first (for c).
+Consist of java and c program chat. Compile both client and server. Then, execute server program first.
 # Out-of-Band(OOB)
 
 # Projekt
